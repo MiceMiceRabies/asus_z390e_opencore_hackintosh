@@ -1,16 +1,18 @@
-# Development on hold. Use instructions below for update.
+# Original Development on hold. Use instructions below for update.
+
+## Instructions below used to update to OpenCore 8.7, boot time is slow but functional
 
 ### Hackintosh for Asus ROG Strix Z390-E
 
-__[OpenCore 0.8.2](https://github.com/acidanthera/OpenCorePkg) | MacOS Monterey 12.4__
+__[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg) | MacOS Ventura 13.1__
 
-![header](_resources/header.jpeg)
+![header](https://user-images.githubusercontent.com/247399/211576099-9b3e9689-fdd7-4fb5-a846-27e58effb6f8.jpg)
 
 ### 📸 Screenshots
 <details>
 <summary>About</summary>
 
-![About](_resources/about.png)
+<img width="290" alt="Screenshot 2023-01-10 at 15 00 04" src="https://user-images.githubusercontent.com/247399/211572662-1363b4e0-71ad-41c5-bdab-cd7da910ed33.png">)
 
 </details>
 <details>
@@ -124,4 +126,6 @@ Or download the pre-compiled ones from [kexts.goldfish64.com](kexts.goldfish64.c
 </details>
 
 ### 📩 Credits
-by [@lbrdev](https://github.com/lbrdev)
+Original work by [@lbrdev](https://github.com/lbrdev)
+
+Modifications by [@MiceMiceRabies](https://github.com/MiceMiceRabies)
