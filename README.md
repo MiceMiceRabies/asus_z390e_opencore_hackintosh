@@ -99,7 +99,7 @@ __[OpenCore 0.8.7](https://github.com/acidanthera/OpenCorePkg) | MacOS Ventura 1
 * [Lilu-and-Friends](https://github.com/corpnewt/Lilu-and-Friends) - To update kexts
 * [OCConfigCompare](https://github.com/corpnewt/OCConfigCompare) - To update OC
 
-</details>
+</details> 
 
 ### ✅ Manual update
 <details>
