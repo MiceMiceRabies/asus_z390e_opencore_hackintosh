@@ -1,4 +1,6 @@
-# Original Development on hold. Use instructions below for update.
+# Under construction do not use yet.
+
+## Original Development on hold. Use instructions below for update.
 
 ## Instructions below used to update to OpenCore 8.7, boot time is slow but functional
 
